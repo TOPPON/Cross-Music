@@ -1,0 +1,36 @@
+data\001_HD easy
+data\001_HD normal
+data\001_HD hard
+data\002_ILeasy.txt
+data\002_ILnormal.txt
+data\002_ILhard.txt
+data\003_リリックeasy
+data\003_リリックnormal
+data\003_リリックhard
+data\004_PM E
+data\004_PM H
+data\004_PM EX
+data\005_Kanon remix easy
+data\005_Kanon remix normal
+data\005_Kanon remix hard
+data\006_LostLight easy
+data\006_LostLight normal
+data\006_LostLight hard
+data\007_wanna see easy
+data\007_wanna see normal
+data\007_wanna see hard
+data\008_アラハドールeasy
+data\008_アラハドールnormal
+data\008_アラハドールhard
+data\009_ダイダロスeasy
+data\009_ダイダロスnormal
+data\009_ダイダロスhard
+data\010_Elbolos_easy
+data\010_Elbolos_normal
+data\010_Elbolos_hard
+data\011_アラハドール改easy
+data\011_アラハドール改normal
+data\011_アラハドール改hard
+data\012_ロンドeasy
+data\012_ロンドnormal
+data\012_ロンドhard

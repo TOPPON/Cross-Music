@@ -1,0 +1,12 @@
+data\001_happy dream.wav
+data\002_IMPOSSIBLE LOVER.wav
+data\003_リリック.wav
+data\004_PM.wav
+data\005_Kanon.wav
+data\006_LostLight.wav
+data\007_wanna see.wav
+data\008_アラハドール.wav
+data\009_ダイダロスの迷宮.wav
+data\010_Elbolos.wav
+data\011_アラハドール改.wav
+data\012_トワイライト輪舞曲.wav
